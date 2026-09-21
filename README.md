@@ -94,5 +94,5 @@ Claude Code, Cursor, Codex
 
 ## Links
 
-- Portfolio: https://prashanthnimmagadda.replit.app
-- LinkedIn: https://linkedin.com/in/nimmagaddaprashanth
+- Portfolio: https://prashanthnimmagadda.vercel.app
+- LinkedIn: https://www.linkedin.com/in/prashanthnimmagadda
