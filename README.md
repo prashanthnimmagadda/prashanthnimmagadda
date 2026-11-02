@@ -4,7 +4,7 @@ Product Manager building AI products, agentic systems, and local-first AI tools.
 
 I have 8 years of professional experience, including 5 years in product management, across telco, fintech, consumer products, and AI systems. I have worked on products serving tens of millions of users, including a major telco platform that grew from 23M to 50M monthly active users.
 
-Currently completing MSc Business Analytics at the University of Birmingham.
+Completed an MSc in Business Analytics at the University of Birmingham in September 2026.
 
 ## What I build
 
